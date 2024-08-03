@@ -1,26 +1,22 @@
 [
     {
-        "Firmware_ver": ".v1.1.1",
-        "Path": "firmware.v1.1.1",
+        "Hardware_ver": 1,
+        "Firmware_ver": 1,
         "Firmware_avai": [
-            ".v0.0.0",
-            ".v0.0.1"
-        ]
+            1,
+            2,
+            3
+        ],
+        "Path": "v.1.1"
     },
     {
-        "Firmware_ver": ".v1.1.2",
-        "Path": "firmware.v1.1.2",
+        "Hardware_ver": 1,
+        "Firmware_ver": 2,
         "Firmware_avai": [
-            ".v0.0.0",
-            ".v0.0.1",
-            ".v1.1.1"
-        ]
-    },
-    {
-        "Firmware_ver": "v.1.2.1",
-        "Path": "firmware.v1.2.1",
-        "Firmware_avai": [
-            ".v1.1.2"
-        ]
+            1,
+            2,
+            3
+        ],
+        "Path": "v.1.2"
     }
 ]
