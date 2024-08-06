@@ -1,22 +1,26 @@
 [
     {
-        "Hardware_ver": 1,
-        "Firmware_ver": 1,
-        "Firmware_avai": [
+        "Version": 1,
+        "Name": "firmware_v1.bin",
+        "WebVersion": 1,
+        "WebName": "w_v1",
+        "Date": "06-08-24",
+        "Available": [
+            0,
             1,
-            2,
-            3
-        ],
-        "Path": "v.1.1"
+            2
+        ]
     },
     {
-        "Hardware_ver": 1,
-        "Firmware_ver": 2,
-        "Firmware_avai": [
+        "Version": 2,
+        "Name": "firmware_v2.bin",
+        "WebVersion": 1,
+        "WebName": "w_v1",
+        "Date": "06-08-24",
+        "Available": [
+            0,
             1,
-            2,
-            3
-        ],
-        "Path": "v.1.2"
+            2
+        ]
     }
 ]
