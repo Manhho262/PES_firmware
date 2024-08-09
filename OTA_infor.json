@@ -11,7 +11,7 @@
     },
     {
         "Version": 2,
-        "Path": "/firmware_v2.bin",
+        "Path": "/firmware_v1.bin",
         "WebVersion": 1,
         "WebPath": "w_v1",
         "Date": "06-08-24",
