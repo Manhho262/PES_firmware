@@ -1,9 +1,9 @@
 [
     {
         "Version": 1,
-        "Name": "firmware_v1.bin",
+        "Path": "firmware_v1.bin",
         "WebVersion": 1,
-        "WebName": "w_v1",
+        "WebPath": "w_v1",
         "Date": "06-08-24",
         "Available": [
             0,
@@ -13,9 +13,9 @@
     },
     {
         "Version": 2,
-        "Name": "firmware_v2.bin",
+        "Path": "firmware_v2.bin",
         "WebVersion": 1,
-        "WebName": "w_v1",
+        "WebPath": "w_v1",
         "Date": "06-08-24",
         "Available": [
             0,
