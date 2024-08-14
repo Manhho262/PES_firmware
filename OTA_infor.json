@@ -18,5 +18,15 @@
         "Available": [
             1
         ]
+    },
+    {
+        "Version": 3,
+        "Path": "/firmware_v3.bin",
+        "WebVersion": 1,
+        "WebPath": "w_v1",
+        "Date": "14-08-24",
+        "Available": [
+            0,1,2
+        ]
     }
 ]
